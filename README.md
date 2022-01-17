@@ -1,5 +1,5 @@
 # DSLivesplitHairColorChanger
-A livesplit script that changes the color of your hair in Dark Souls to the color of the livesplit timer.
+A Livesplit script that changes the color of your hair in Dark Souls and Dark Souls Remastered to the color of the Livesplit timer.
 
 ### How to Use </br>
 In Livesplit: Edit Layout -> + -> Control -> Scriptable Autosplitter </br>
